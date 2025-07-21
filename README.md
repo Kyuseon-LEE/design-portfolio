@@ -36,7 +36,7 @@
 📅 **제작기간:** 5일  (100% 개인 작업)<br>
 📌 **설명:** 해당 하는 가구의 소재 및 재질 소개 및 인테리어컷 연출
 
-👉 **[거실장 이미지 보기1](https://github.com/Kyuseon-LEE/design-portfolio/blob/main/%EA%B1%B0%EC%8B%A4%EC%9E%A51.jpg?raw=true)<br>
-👉 [거실장 이미지 보기2](https://github.com/Kyuseon-LEE/design-portfolio/blob/main/%EA%B1%B0%EC%8B%A4%EC%9E%A52.jpg?raw=true)**  
+👉 **[거실장 이미지 보기1](https://raw.githubusercontent.com/Kyuseon-LEE/design-portfolio/refs/heads/main/%EA%B1%B0%EC%8B%A4%EC%9E%A51.jpg)<br>
+👉 [거실장 이미지 보기2](https://raw.githubusercontent.com/Kyuseon-LEE/design-portfolio/refs/heads/main/%EA%B1%B0%EC%8B%A4%EC%9E%A52.jpg)**  
 
 ---
